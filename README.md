@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src="https://github.com/vicataborda/podcast-minutos-do-oculto/blob/main/capa.jpg"
+    src="https://github.com/vicataborda/podcast-minutos-do-oculto/blob/main/capa%20principal.jpg"
     width="400"  
 />
 </p>
@@ -14,6 +14,8 @@
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+
+<a href="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/Ebook%20-%20Palavras%20do%20agora%2C%20versos%20da%20alma.pdf" title="View PDF now"> 🎵 Clique aqui para ouvir</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto

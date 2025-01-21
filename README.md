@@ -4,7 +4,7 @@
 <p align="center">
 <img 
     src="https://github.com/vicataborda/podcast-minutos-do-oculto/blob/main/capa%20principal.jpg"
-    width="400"  
+    width="300"  
 />
 </p>
 

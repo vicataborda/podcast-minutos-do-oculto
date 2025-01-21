@@ -30,8 +30,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito?
 
 - Roteiro gerado via Chatgpt
-- Áudio gerado via ElevenLabs
 - Leonardo.AI para gerar arte das capas
+- Áudio gerado via ElevenLabs
 - Capcut para editar aúdio e adicionar sons de fundo
 - AirBrush para adicionar textos e remover objetos indesejados
 

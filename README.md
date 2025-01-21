@@ -1,9 +1,9 @@
-# Projeto Podcast Gerado por I.A.s
+# Podcast Minutos do Oculto - Projeto Podcast Gerado por I.A.s
 
 
 <p align="center">
 <img 
-    src="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/Ebook%20-%20Palavras%20do%20Agora%2C%20Versos%20da%20Alma.jpg"
+    src="https://github.com/vicataborda/podcast-minutos-do-oculto/blob/main/capa.jpg"
     width="400"  
 />
 </p>

@@ -1,4 +1,4 @@
-# Podcast Minutos do Oculto - Projeto Podcast Gerado por I.A.s
+# Podcast: Minutos do Oculto - Projeto Podcast Gerado por I.A.s
 
 
 <p align="center">
@@ -15,7 +15,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
-<a href="https://github.com/vicataborda/e-book-palavras-do-agora-versos-da-alma-Vitoria-C-Taborda/blob/main/Ebook%20-%20Palavras%20do%20agora%2C%20versos%20da%20alma.pdf" title="View PDF now"> 🎵 Clique aqui para ouvir</a>
+<a href="https://github.com/vicataborda/podcast-minutos-do-oculto/blob/main/Podcast%20-%20Minutos%20do%20Oculto%20-%20Vit%C3%B3ria%20C.%20Taborda.MP3" title="View PDF now"> 🎵 Clique aqui para ouvir</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
